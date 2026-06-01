@@ -73,11 +73,11 @@ class DecisionTreeFromScratch:
 
 ## 💡 Key Concepts Covered
 
-- What is Gini Impurity and how it measures node purity
-- How recursive binary splitting works
-- Why `max_depth` prevents overfitting
-- Difference between a leaf node and a decision node
-- Why sklearn is faster but both give similar results
+- What is Gini Impurity and how it measures node purity.
+- How recursive binary splitting works.
+- Why `max_depth` prevents overfitting.
+- Difference between a leaf node and a decision node.
+- Why sklearn is faster but both give similar results.
 
 ---
 
